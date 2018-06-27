@@ -35,7 +35,7 @@ class MainActivity3() : AppCompatActivity(), View.OnClickListener {
 
         kakaoItems = ArrayList()
         kakaoItems.add(KakaoData(R.drawable.pika1,"09의 바나나 안드로이드", "낰낰", "오후 4:39"))
-        kakaoItems.add(KakaoData(R.drawable.pika2,"이돌이의 차근차근기획", ":낰낰", "오후 3:05"))
+        kakaoItems.add(KakaoData(R.drawable.pika2,"이돌이의 차근차근기획", "낰낰", "오후 3:05"))
         kakaoItems.add(KakaoData(R.drawable.pika3,"트카의 텔미텔미딪", "낰낰", "오후 1:07"))
         kakaoItems.add(KakaoData(R.drawable.pika4,"사과의 고속사과","낰낰", "오전 9:52"))
         kakaoItems.add(KakaoData(R.drawable.pika5,"섭이의 섭섭한칼퇴", "낰낰", "오전 8:38"))
